@@ -6,4 +6,4 @@ silahkan gunakan format berikut.<br>
 **\* nama, [linkedin/Github/Website](alamat URL).**
 
 berikut adalah daftar volunter yang diterima :
-*said ali, [said.or.id](https://said.or.id).
+* said ali, [said.or.id](https://said.or.id).
