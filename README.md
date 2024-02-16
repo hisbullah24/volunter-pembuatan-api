@@ -1,7 +1,5 @@
 # Volunter Pembuatan Aplikasi
-repo ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi dicoding
-
-[Dicoding](www.dicoding.com).<br>
+repo ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi dicoding [Dicoding](www.dicoding.com).<br>
 jika anda tertarik menjadi volunter, silahkan lakukan PR/Pull Request pada berkas ini. <br>
 
 silahkan gunakan format berikut.<br>
